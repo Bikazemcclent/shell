@@ -8,3 +8,5 @@ This shell supports the following features:
 
 - Basic command execution
 - Command history
+- Ready to lock in this devops JOURNEY 🤪🔥
+- LESSGOOO
